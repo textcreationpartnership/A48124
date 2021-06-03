@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of the officers of the Army in Scotland under the commander in chief there, to the officers of the Army in England.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48124</idno><idno type="EEBO-CITATION">99834928</idno>
+  <idno type="VID">39578</idno>
+  <idno type="EEBO-PROQUEST">2240944624</idno>
+  
+            <idno type="STC">Wing L1579</idno>
+            <idno type="STC">ESTC R179568</idno>
+            <idno type="PROQUEST">99834928</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834928e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39578)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2173:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of the officers of the Army in Scotland under the commander in chief there, to the officers of the Army in England.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Edinburgh, Printed by Christopher Higgins, in Harts Close, over against the Trone-Church, and re-printed at London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: William Clarke, secretary.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:39578:1"/>
+            <head>A LETTER OF THE OFFICERS of the ARMY in SCOTLAND, under the Com<g ref="char:EOLhyphen"/>mander in Chief there, To the OFFICERS of the Army in ENGLAND.</head>
+            <opener>
+               <salute>Dear Brethren and Friends,</salute>
+            </opener>
+            <p>THis is, of all the dayes of Trouble God hath brought upon Us, the saddest that ever our Eyes saw in these poor Nations; We have had to do often with the Common Enemy, but never before Engaged against Our Friends, the very thoughts of which is a wound, deeper in our Spirits than the Sword can make in our Bowels.</p>
+            <pb n="2" facs="tcp:39578:2"/>
+            <p>Above all things therefore it is our earnest prayer, and shall be our Endea<g ref="char:EOLhyphen"/>vour, to <hi>Reconcile</hi> the Differences in that which to our Consciences seemes the most equitable and just <hi>Medium</hi> for us to agree in, namely, To intreat you (as we have interposed with the superiour Officers of the Army) to labour a due understanding between your selves and the Parliament, the Necessity and Equity of which Re<g ref="char:EOLhyphen"/>quest, we cannot but believe you must subscribe to, if you seriously consider a few Proposals.</p>
+            <p n="1">1. Whether the asserting of a Free Parliament, duly qualified, of faithfull Men to GOD, and his People in these Nations, to be the <hi>Supream Legislative Authority</hi> of these Nations, was not the <hi>Good Old Cause</hi> we fought for, as that onely which vindicated in Spirituals
+<pb n="3" facs="tcp:39578:2"/>our Consciences from Imposition up<g ref="char:EOLhyphen"/>on them, contrary to the Liberty of the Subjects of JESUS CHRIST, and our Persons, and Estates, and Poste<g ref="char:EOLhyphen"/>rity in <hi>Civils,</hi> from the Usurpations of the late King upon the Liberties and ancient Rights of the Free-born People of <hi>England.</hi>
+            </p>
+            <p n="2">2. Whether it be not the only vin<g ref="char:EOLhyphen"/>dication of your late laying aside the Son and Successor of our old General, because you did verily believe, as you have protested to the world, That the Government of any single person might in time, ruine the afore mentioned Li<g ref="char:EOLhyphen"/>berties, purchased by our Bloud, and the vast Treasures of this Common<g ref="char:EOLhyphen"/>wealth; Monarchy, however bounded, necessarily requiring Uniformity as to Religion, and Prerogative as to Civil, both which must needs be oppressive
+<pb n="4" facs="tcp:39578:3"/>and destructive to our Consciences and Rights.</p>
+            <p n="3">3. Whether, when you set up again this <hi>Famous Old Parliament,</hi> you did not believe in your Consciences that it was a Return to the <hi>Good Old Cause,</hi> from which you had Apostatized, and the best Expedient to heal the sad Breaches of this poor Commonwealth, which the Lusts of men have made; witness your Declaration presented by the Lord <hi>Lambert,</hi> and the rest (the sixth of <hi>May</hi>) to the Speaker, as the Representee of the House.</p>
+            <p n="4">4. Whether, this Parliament hath ever yet endangered or disowned you, or the Nation in these Great Ends (which can only acquit all the Bloud<g ref="char:EOLhyphen"/>shed from Murther) your Liberties as <hi>English-men,</hi> and your Priviledges as Christians, but rather have given Se<g ref="char:EOLhyphen"/>curity
+<pb n="5" facs="tcp:39578:3"/>for both, in such Votes as they had time to passe, by such Promises as they are too honest to forget, and by a Progress large enough, considering the Confusions and difficulties they found the Government in, by our setting up the things, of which we are now asha<g ref="char:EOLhyphen"/>med.</p>
+            <p n="5">5. Whether, if your Consciences be better informed, it can satisfie ours, or any Christian Consciences in the Nation, to act according to your parti<g ref="char:EOLhyphen"/>cular apprehensions, when we see them cross so much the plain Rule of the Word; which, as it requires obedi<g ref="char:EOLhyphen"/>ence to all Authority, So, much more to that which is asserted and setled up<g ref="char:EOLhyphen"/>on the surest Foundation of the Peoples Rights, and to which you are so so<g ref="char:EOLhyphen"/>lemnly engaged by Protestations, as in the presence of God, <hi>who will not hold
+<pb n="6" facs="tcp:39578:4"/>them guiltless that take His Name in vaine.</hi>
+            </p>
+            <p n="6">6. Whether, if upon this occasion of our Dissentings, the Common Ene<g ref="char:EOLhyphen"/>my should arise with a stronger party, and make use of our Divisions to yoke us in bondage worse than ever: That their little finger should be heavier than the Loyns of those preceded them, the people of these Nations would not have sad Cause to leave at your Doors the Bloud of those Innocents they must sa<g ref="char:EOLhyphen"/>crifice to their Cruelty, Considering especially that the Redemption of these old Usurpations, must be by the Heads of Gods People, and bring worse upon us, the Bloud of Saints, whose death is precious in the sight of the Lord. We Begg you therefore, to lay to heart the Premisses, and believe we are Men of such Consciences, as cannot close with
+<pb n="7" facs="tcp:39578:4"/>this Action and Acquiesce in it, But would cordially Desire, that God may humble us for the evill of our wayes, That in making Peace with Him, we may Unite in love to each other: And we shall also assure you, that though the present Emergencie hath made Our Commander in Chief, to put some of the Officers from their Commands, whose Actings have not been such as might promise they can cordially joyn in this business, yet he hath continued to them their Sallaries out of the Con<g ref="char:EOLhyphen"/>tingencies of the Army, till the Parlia<g ref="char:EOLhyphen"/>ments pleasure be further known: And we shall also assure you, That whatever endeavours may be for the settling of this Parliament again in a free capacitie to Act for us in these Nations, we hall be as ready as you to bear a Testimony against them suitable to our station, if
+<pb n="8" facs="tcp:39578:5"/>they should violate the so often promi<g ref="char:EOLhyphen"/>sed and engaged-for Liberties of these Nations, whether Spiritual or Civil, There being a witness against them in their late Votes, that the <hi>Representative</hi> of the People, is entrusted not for the Ruine, but the Safety of the Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <closer>
+               <dateline>
+                  <hi>Linlithgow,</hi>
+                  <date>Octob. 22. 1659.</date>
+               </dateline>
+               <salute>To the Right Honourable the Lord <hi>Fleetwoed,</hi> to be Commun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cated to the Officers of the Army in a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d about <hi>London.</hi>
+               </salute>
+               <signed>
+                  <hi>Signed in the Name, and by the Appointment of the Officers of the Army in</hi> Scotland. <hi>WILLIAM CLARKE,</hi> SECRETARY.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBƲRGH,</hi> Printe by <hi>Christopher Higgins,</hi> in <hi>Harts</hi> Close, over against the Trone-Church, And Re-printed at <hi>London,</hi> 1659.</p>
+            <pb facs="tcp:39578:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
